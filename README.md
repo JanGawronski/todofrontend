@@ -1,5 +1,5 @@
 # todofrontend
-Do projektu użyłem Typescript, Next.js, Tailwind CSS. Projekt najlepiej wspólgra z backendem, który przygotowałem, ale odpowiednie endpointy znajdują się w pliku APIconfig.ts.
+Do projektu użyłem Typescript, Next.js, Tailwind CSS. Projekt najlepiej wspólgra z backendem, który przygotowałem, ale odpowiednie endpointy znajdują się w pliku APIconfig.ts. Nie uważam, że strona dobrze wygląda, ale zrobiłem ją tylko jako dodatek mojego backendu.
 
 ## How to install
 
